@@ -1,0 +1,7 @@
+package1/client/api/GreetApi.class
+package1/client/JavaTimeFormatter.class
+package1/client/model/GreetUpdate.class
+package1/client/api/ApiException.class
+package1/client/model/GreetResponse.class
+package1/client/RFC3339DateFormat.class
+package1/client/api/ApiExceptionMapper.class

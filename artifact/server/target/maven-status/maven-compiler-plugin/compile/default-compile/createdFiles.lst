@@ -1,0 +1,10 @@
+package1/server/RFC3339DateFormat.class
+package1/server/model/GreetUpdate.class
+package1/server/GreetResource.class
+package1/server/GreetingProvider.class
+package1/server/model/GreetResponse.class
+package1/server/api/GreetService.class
+package1/server/JavaTimeFormatter.class
+package1/server/GreetLivenessCheck.class
+package1/server/RestApplication.class
+package1/server/GreetReadinessCheck.class
